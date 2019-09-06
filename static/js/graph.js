@@ -20,7 +20,6 @@ function makeGraphs(error, housingData) {
 
     show_country_selector(ndx);
     show_rank_distribution(ndx);
-    show_year_selector(ndx);
     dc.renderAll();
 }
 
